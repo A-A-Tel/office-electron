@@ -136,5 +136,4 @@ dist
 
 .idea/
 forge.config.js
-.out/
 package-lock.json
