@@ -1,0 +1,1 @@
+window.location.href = "https://www.microsoft365.com/launch/word";
